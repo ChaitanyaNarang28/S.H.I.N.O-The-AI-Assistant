@@ -1,6 +1,6 @@
 # S.H.I.N.O - Smart Human-Interactive Neural Operator
 
-S.H.I.N.O (Smart Human-Interactive Neural Operator) is a Python-based AI assistant powered by speech recognition and Google Gemini APIs. It can perform various tasks such as launching applications, browsing the web, responding to user queries, and more. S.H.I.N.O. also includes user authentication for personalized experiences.
+ S.H.I.N.O (Smart Human-Interactive Neural Operator) is a Python-based AI assistant powered by speech recognition and Google Gemini APIs. It can perform various tasks such as launching applications, browsing the web, responding to user queries, and more. S.H.I.N.O. also includes user authentication for personalized experiences.
 
 ## Features
 
